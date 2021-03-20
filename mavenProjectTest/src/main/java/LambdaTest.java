@@ -30,6 +30,7 @@ public class LambdaTest {
         List<Date> l2 = new ArrayList<>();
         l2.add(new Date());
         lz.add(new DateObj(l2));
+
 //
 //
 //        List<Date> dates = lz.stream()
